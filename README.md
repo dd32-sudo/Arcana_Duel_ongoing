@@ -3,6 +3,8 @@
 A two-player local versus tarot fighting game made with Unity.
 Current Status:Only two characters, Justice and The Fool, are available now. Additional tarot characters will be added in future updates.
 
+V1 web url:https://clarencetan.itch.io/arcanaduel
+
 Gameplay
 
 Two players battle on the same computer. Use melee attacks, special skills and ultimate abilities to deplete the opponent’s health.
